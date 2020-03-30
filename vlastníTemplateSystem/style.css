@@ -1,0 +1,49 @@
+
+/* 
+    Created on : 15.3.2020, 9:44:01
+    Author     : Admin
+*/
+body {
+    margin: 20px;
+    padding: 0px;
+    background-color: #FAF0E6;
+}
+#centre {
+    position: absolute;
+    left: 50%;
+    overflow: visible;
+}
+#nav {
+    position: absolute;
+    width: 800px;
+    height: 60px;
+    left: -260px;
+    background-color: #FAF0E6;
+    font-size: 27px;
+}
+#wrap {
+    position: absolute;
+    width: 1400px;
+    height: 400px;
+    left: -700px;
+    top: 200px;
+    background-color: #FFFFF0;
+    color: #000000;
+    font-size: 20px;
+}
+#nav a {
+    display: block;
+    float: left;
+    padding: 18px 50px;
+    margin: 2px 0px 2px 2px;
+    -moz-border-radius: 8px;
+}
+#nav a:link, nav a:visited{
+    background-color: #D8BFD8;
+}
+#nav a:hover {
+    background-color: #FFFFF0;
+}
+#nav a:active {
+    background-color: #800000;
+}
