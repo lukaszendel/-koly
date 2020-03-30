@@ -1,2 +1,2 @@
-# -koly
+# Homework
 Úkoly pro skolavdf
