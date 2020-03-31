@@ -1,0 +1,1 @@
+Zápisky do sešitu.
